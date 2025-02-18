@@ -16,7 +16,8 @@ export default defineConfig({
         text: 'Lezi Notes 名人堂',
         items: [
           { text: '开始阅读', link: '/start' },
-          { text: '自由世界', link: '/zy123' }
+          { text: '自由世界', link: '/zy123' },
+          { text: 'nn2', link: '/nn2' }
         ]
       }
     ],
