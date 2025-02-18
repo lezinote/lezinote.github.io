@@ -21,8 +21,4 @@ features:
   - title: 推荐阅读
     details: nn2
     link: /nn2
-  - title: 推荐阅读
-    details: 自由世界
-    link: /zy123
 ---
-
