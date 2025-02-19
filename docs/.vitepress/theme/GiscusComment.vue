@@ -15,7 +15,7 @@
         data-theme="dark"
         data-lang="zh-CN"
         crossorigin="anonymous"
-        data-loading="lazy"
+        data-loading="eager"
         async
       >
       </component>
@@ -34,7 +34,7 @@
         data-theme="light"
         data-lang="zh-CN"
         crossorigin="anonymous"
-        data-loading="lazy"
+        data-loading="eager"
         async
       >
       </component>
