@@ -21,4 +21,7 @@ features:
   - title: 推荐阅读
     details: nn2
     link: /nn2
+  - title: 推荐阅读
+    details: tnt
+    link: /tnt
 ---
