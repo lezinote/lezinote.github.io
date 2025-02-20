@@ -45,9 +45,12 @@ Eeemmm（2024-3）
 2024 年 8 月，他冒充我的小号进入了我的群，接着就开始狂喷我，然后我给他踢出去了。
 
 ## 乐子截图
+
 <details>
+
 ![nn2乐子截图1](https://gcore.jsdelivr.net/gh/lezinote/imgs@master/nn2/nn2_1.jpg)
 ![nn2乐子截图2](https://gcore.jsdelivr.net/gh/lezinote/imgs@master/nn2/nn2_2.jpg)
 ![nn2乐子截图3](https://gcore.jsdelivr.net/gh/lezinote/imgs@master/nn2/nn2_3.jpg)
 ![nn2乐子截图4](https://gcore.jsdelivr.net/gh/lezinote/imgs@master/nn2/nn2_4.jpg)
+
 </details>
